@@ -26,5 +26,10 @@ namespace Hotel_MS
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
