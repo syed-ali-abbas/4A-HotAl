@@ -25,3 +25,16 @@ E:\Hotal Management System\4A-HotAl\Hotel Management System\Hotel MS\Hotel MS\ob
 E:\Hotal Management System\4A-HotAl\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel MS.csproj.CopyComplete
 E:\Hotal Management System\4A-HotAl\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel MS.exe
 E:\Hotal Management System\4A-HotAl\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel MS.pdb
+E:\4th Semester\08-SDA Lab\Project\Project\Hotel Management System\Hotel MS\Hotel MS\bin\Debug\Hotel MS.exe.config
+E:\4th Semester\08-SDA Lab\Project\Project\Hotel Management System\Hotel MS\Hotel MS\bin\Debug\Hotel MS.exe
+E:\4th Semester\08-SDA Lab\Project\Project\Hotel Management System\Hotel MS\Hotel MS\bin\Debug\Hotel MS.pdb
+E:\4th Semester\08-SDA Lab\Project\Project\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel MS.csprojAssemblyReference.cache
+E:\4th Semester\08-SDA Lab\Project\Project\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel_MS.Account.resources
+E:\4th Semester\08-SDA Lab\Project\Project\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel_MS.Form1.resources
+E:\4th Semester\08-SDA Lab\Project\Project\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel_MS.Home.resources
+E:\4th Semester\08-SDA Lab\Project\Project\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel_MS.Properties.Resources.resources
+E:\4th Semester\08-SDA Lab\Project\Project\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel MS.csproj.GenerateResource.cache
+E:\4th Semester\08-SDA Lab\Project\Project\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel MS.csproj.CoreCompileInputs.cache
+E:\4th Semester\08-SDA Lab\Project\Project\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel MS.csproj.CopyComplete
+E:\4th Semester\08-SDA Lab\Project\Project\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel MS.exe
+E:\4th Semester\08-SDA Lab\Project\Project\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel MS.pdb

@@ -66,7 +66,7 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Times New Roman", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(109)))), ((int)(((byte)(71)))));
-            this.label1.Location = new System.Drawing.Point(322, 77);
+            this.label1.Location = new System.Drawing.Point(293, 77);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(286, 31);
             this.label1.TabIndex = 3;
@@ -86,7 +86,7 @@
             // panel2
             // 
             this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(109)))), ((int)(((byte)(71)))));
-            this.panel2.Location = new System.Drawing.Point(328, 111);
+            this.panel2.Location = new System.Drawing.Point(299, 111);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(271, 1);
             this.panel2.TabIndex = 10;
@@ -94,7 +94,7 @@
             // panel3
             // 
             this.panel3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(109)))), ((int)(((byte)(71)))));
-            this.panel3.Location = new System.Drawing.Point(332, 284);
+            this.panel3.Location = new System.Drawing.Point(303, 284);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(267, 1);
             this.panel3.TabIndex = 13;
@@ -105,7 +105,7 @@
             this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textBox1.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(109)))), ((int)(((byte)(71)))));
-            this.textBox1.Location = new System.Drawing.Point(391, 251);
+            this.textBox1.Location = new System.Drawing.Point(362, 251);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(204, 22);
             this.textBox1.TabIndex = 14;
@@ -114,7 +114,7 @@
             // pictureBox2
             // 
             this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(332, 242);
+            this.pictureBox2.Location = new System.Drawing.Point(303, 242);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(36, 36);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -124,7 +124,7 @@
             // pictureBox4
             // 
             this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
-            this.pictureBox4.Location = new System.Drawing.Point(336, 309);
+            this.pictureBox4.Location = new System.Drawing.Point(307, 309);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(28, 31);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -137,7 +137,7 @@
             this.textBox2.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textBox2.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(109)))), ((int)(((byte)(71)))));
-            this.textBox2.Location = new System.Drawing.Point(391, 315);
+            this.textBox2.Location = new System.Drawing.Point(362, 315);
             this.textBox2.Name = "textBox2";
             this.textBox2.PasswordChar = '*';
             this.textBox2.Size = new System.Drawing.Size(170, 22);
@@ -147,7 +147,7 @@
             // panel4
             // 
             this.panel4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(109)))), ((int)(((byte)(71)))));
-            this.panel4.Location = new System.Drawing.Point(332, 348);
+            this.panel4.Location = new System.Drawing.Point(303, 348);
             this.panel4.Name = "panel4";
             this.panel4.Size = new System.Drawing.Size(267, 1);
             this.panel4.TabIndex = 16;
@@ -162,7 +162,7 @@
             this.comboBox1.Items.AddRange(new object[] {
             "Admin",
             "Customer"});
-            this.comboBox1.Location = new System.Drawing.Point(328, 195);
+            this.comboBox1.Location = new System.Drawing.Point(300, 197);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(271, 29);
             this.comboBox1.TabIndex = 19;
@@ -171,7 +171,7 @@
             // pictureBox5
             // 
             this.pictureBox5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox5.Image")));
-            this.pictureBox5.Location = new System.Drawing.Point(572, 309);
+            this.pictureBox5.Location = new System.Drawing.Point(543, 309);
             this.pictureBox5.Name = "pictureBox5";
             this.pictureBox5.Size = new System.Drawing.Size(24, 28);
             this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -184,7 +184,7 @@
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(35)))), ((int)(((byte)(46)))), ((int)(((byte)(56)))));
-            this.button1.Location = new System.Drawing.Point(332, 409);
+            this.button1.Location = new System.Drawing.Point(303, 409);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(267, 40);
             this.button1.TabIndex = 21;
@@ -198,7 +198,7 @@
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button2.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(35)))), ((int)(((byte)(46)))), ((int)(((byte)(56)))));
-            this.button2.Location = new System.Drawing.Point(333, 455);
+            this.button2.Location = new System.Drawing.Point(304, 455);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(267, 40);
             this.button2.TabIndex = 22;
@@ -211,7 +211,7 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(109)))), ((int)(((byte)(71)))));
-            this.label2.Location = new System.Drawing.Point(478, 367);
+            this.label2.Location = new System.Drawing.Point(449, 367);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(125, 19);
             this.label2.TabIndex = 23;
