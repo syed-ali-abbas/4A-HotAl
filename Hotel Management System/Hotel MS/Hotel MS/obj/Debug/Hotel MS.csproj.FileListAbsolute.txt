@@ -38,3 +38,13 @@ E:\4th Semester\08-SDA Lab\Project\Project\Hotel Management System\Hotel MS\Hote
 E:\4th Semester\08-SDA Lab\Project\Project\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel MS.csproj.CopyComplete
 E:\4th Semester\08-SDA Lab\Project\Project\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel MS.exe
 E:\4th Semester\08-SDA Lab\Project\Project\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel MS.pdb
+<<<<<<< HEAD
+E:\4th Semester\08-SDA Lab\Project\Project\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel_MS.MembershipForm.resources
+E:\4th Semester\08-SDA Lab\Project\Project\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel_MS.ContactUsForm.resources
+=======
+<<<<<<< HEAD
+D:\csharp uni\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel_MS.Reservation.resources
+D:\csharp uni\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel_MS.CreateNewAccount.resources
+=======
+>>>>>>> 5b7afdf5633b5109ad2f80a86d8a95902d02d5f0
+>>>>>>> fe8b3c806480ab75449949f419c1da16b04c5b0e

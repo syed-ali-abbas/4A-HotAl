@@ -31,5 +31,19 @@ namespace Hotel_MS
         {
 
         }
+
+        private void label13_Click(object sender, EventArgs e)
+        {
+            MembershipForm membership = new MembershipForm();
+            this.Hide();
+            membership.Show();
+        }
+
+        private void label12_Click(object sender, EventArgs e)
+        {
+            ContactUsForm contact = new ContactUsForm();
+            this.Hide();
+            contact.Show();
+        }
     }
 }
