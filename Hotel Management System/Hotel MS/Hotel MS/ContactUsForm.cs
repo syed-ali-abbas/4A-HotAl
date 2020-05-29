@@ -10,23 +10,16 @@ using System.Windows.Forms;
 
 namespace Hotel_MS
 {
-    public partial class Home : Form
+    public partial class ContactUsForm : Form
     {
-        public Home()
+        public ContactUsForm()
         {
             InitializeComponent();
         }
 
-        private void pictureBox3_Click(object sender, EventArgs e)
+        private void label12_Click(object sender, EventArgs e)
         {
-            this.Close();
-        }
 
-        private void label8_Click(object sender, EventArgs e)
-        {
-            Account acc = new Account();
-            acc.Show();
-            this.Hide();
         }
 
         private void label13_Click(object sender, EventArgs e)
@@ -36,11 +29,21 @@ namespace Hotel_MS
             membership.Show();
         }
 
-        private void label12_Click(object sender, EventArgs e)
+        private void label8_Click(object sender, EventArgs e)
         {
-            ContactUsForm contact = new ContactUsForm();
+
+        }
+
+        private void pictureBox3_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            Home hom = new Home();
             this.Hide();
-            contact.Show();
+            hom.Show();
         }
     }
 }

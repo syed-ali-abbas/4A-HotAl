@@ -38,3 +38,5 @@ E:\4th Semester\08-SDA Lab\Project\Project\Hotel Management System\Hotel MS\Hote
 E:\4th Semester\08-SDA Lab\Project\Project\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel MS.csproj.CopyComplete
 E:\4th Semester\08-SDA Lab\Project\Project\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel MS.exe
 E:\4th Semester\08-SDA Lab\Project\Project\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel MS.pdb
+E:\4th Semester\08-SDA Lab\Project\Project\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel_MS.MembershipForm.resources
+E:\4th Semester\08-SDA Lab\Project\Project\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel_MS.ContactUsForm.resources
