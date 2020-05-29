@@ -1,0 +1,27 @@
+D:\csharp uni\Hotel Management System\Hotel MS\Hotel MS\bin\Debug\Hotel MS.exe.config
+D:\csharp uni\Hotel Management System\Hotel MS\Hotel MS\bin\Debug\Hotel MS.exe
+D:\csharp uni\Hotel Management System\Hotel MS\Hotel MS\bin\Debug\Hotel MS.pdb
+D:\csharp uni\Hotel Management System\Hotel MS\Hotel MS\bin\Debug\Bunifu_UI_v1.52.dll
+D:\csharp uni\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel MS.csprojAssemblyReference.cache
+D:\csharp uni\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel_MS.Form1.resources
+D:\csharp uni\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel_MS.Properties.Resources.resources
+D:\csharp uni\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel MS.csproj.GenerateResource.cache
+D:\csharp uni\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel MS.csproj.CoreCompileInputs.cache
+D:\csharp uni\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel MS.csproj.CopyComplete
+D:\csharp uni\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel MS.exe
+D:\csharp uni\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel MS.pdb
+D:\csharp uni\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel_MS.Home.resources
+D:\csharp uni\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel_MS.Account.resources
+E:\Hotal Management System\4A-HotAl\Hotel Management System\Hotel MS\Hotel MS\bin\Debug\Hotel MS.exe.config
+E:\Hotal Management System\4A-HotAl\Hotel Management System\Hotel MS\Hotel MS\bin\Debug\Hotel MS.exe
+E:\Hotal Management System\4A-HotAl\Hotel Management System\Hotel MS\Hotel MS\bin\Debug\Hotel MS.pdb
+E:\Hotal Management System\4A-HotAl\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel MS.csprojAssemblyReference.cache
+E:\Hotal Management System\4A-HotAl\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel_MS.Account.resources
+E:\Hotal Management System\4A-HotAl\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel_MS.Form1.resources
+E:\Hotal Management System\4A-HotAl\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel_MS.Home.resources
+E:\Hotal Management System\4A-HotAl\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel_MS.Properties.Resources.resources
+E:\Hotal Management System\4A-HotAl\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel MS.csproj.GenerateResource.cache
+E:\Hotal Management System\4A-HotAl\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel MS.csproj.CoreCompileInputs.cache
+E:\Hotal Management System\4A-HotAl\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel MS.csproj.CopyComplete
+E:\Hotal Management System\4A-HotAl\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel MS.exe
+E:\Hotal Management System\4A-HotAl\Hotel Management System\Hotel MS\Hotel MS\obj\Debug\Hotel MS.pdb
