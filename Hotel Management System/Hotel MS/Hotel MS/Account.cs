@@ -31,10 +31,20 @@ namespace Hotel_MS
 
         private void button1_Click(object sender, EventArgs e)
         {
+            String query = "Select username, Password from Customer_Information where username='"+textBox1.Text+"' and Password = '"+textBox2.Text+"'";
+            if (databaseHelper.loginForm(query)==1)
+            {
+                
+                MessageBox.Show("Done");                // Put here the next form after login
+                Home home = new Home();
+                home.Show();
+                this.Hide();
+            }
+            else
+            {
+                MessageBox.Show("Attention needed your input is incorect");
+            }
 
-            Home home = new Home();
-            this.Hide();
-            home.Show();
         }
         private void button2_Click(object sender, EventArgs e)
         {

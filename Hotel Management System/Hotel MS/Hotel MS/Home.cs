@@ -24,14 +24,12 @@ namespace Hotel_MS
 
         private void label8_Click(object sender, EventArgs e)
         {
-           
+            
         }
 
-        private void label11_Click(object sender, EventArgs e)
+        private void pictureBox4_Click(object sender, EventArgs e)
         {
-            this.Hide();
-            Reservation res = new Reservation();
-            res.Show();
+
         }
     }
 }
