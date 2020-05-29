@@ -28,11 +28,16 @@ namespace Hotel_MS
             if (panel1.Width >= 500)
             {
                 timer1.Stop();
-                Home home = new Home();
+                Account account = new Account();
+                account.Show();
                 this.Hide();
-                home.Show();
 
             }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

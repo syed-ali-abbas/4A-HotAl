@@ -24,9 +24,12 @@ namespace Hotel_MS
 
         private void label8_Click(object sender, EventArgs e)
         {
-            Account acc = new Account();
-            acc.Show();
-            this.Hide();
+            
+        }
+
+        private void pictureBox4_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -36,6 +36,9 @@ namespace Hotel_MS
             {
                 
                 MessageBox.Show("Done");                // Put here the next form after login
+                Home home = new Home();
+                home.Show();
+                this.Hide();
             }
             else
             {
