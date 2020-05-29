@@ -88,7 +88,7 @@
             // panel2
             // 
             this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(109)))), ((int)(((byte)(71)))));
-            this.panel2.Location = new System.Drawing.Point(333, 103);
+            this.panel2.Location = new System.Drawing.Point(457, 103);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(174, 1);
             this.panel2.TabIndex = 27;
@@ -98,7 +98,7 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Times New Roman", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(109)))), ((int)(((byte)(71)))));
-            this.label1.Location = new System.Drawing.Point(327, 73);
+            this.label1.Location = new System.Drawing.Point(451, 73);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(184, 31);
             this.label1.TabIndex = 25;
