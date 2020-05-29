@@ -69,7 +69,6 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Helper\MessageAlerts.cs" />
     <Compile Include="Home.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -81,6 +80,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>HotelManagementSystemDataSet.xsd</DependentUpon>
     </Compile>
+    <Compile Include="Helper\MessageAlert.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Account.resx">

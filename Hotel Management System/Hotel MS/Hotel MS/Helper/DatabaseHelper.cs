@@ -5,7 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data;
 using System.Data.SqlClient;
-using Hotel_MS.Helper;
 using System.Windows.Forms;
 
 
@@ -18,12 +17,12 @@ namespace Hotel_MS
         SqlCommand cmd;
         SqlDataAdapter sda;
         DataTable dt;
-        static MessageAlerts msg;
+        static MessageAlert msg;
 
 
         public DatabaseHelper()
         {
-            msg = new MessageAlerts();
+            msg = new MessageAlert();
             string connectionString = @"Data Source=DESKTOP-UA4FIBG\SQLEXPRESS;Initial Catalog=HotelManagementSystem;Integrated Security=True"; ;
             conn = new SqlConnection(connectionString);
         }
@@ -37,7 +36,7 @@ namespace Hotel_MS
                 int count = cmd.ExecuteNonQuery();
                 if (count > 0)
                 {
-
+                    
                     conn.Close();
                     return true;
                 }

@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
-namespace Hotel_MS.Helper
+namespace Hotel_MS
 {
-    public class MessageAlerts
+    internal class MessageAlert
     {
         public void SuccessMessage()
         {

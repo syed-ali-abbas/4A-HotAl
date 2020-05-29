@@ -12,10 +12,12 @@ namespace Hotel_MS
 {
     public partial class Account : Form
     {
-       DatabaseHelper databaseHelper = new DatabaseHelper();
-        
+       DatabaseHelper databaseHelper;
+        MessageAlert messageAlert;
         public Account()
         {
+            databaseHelper = new DatabaseHelper();
+            messageAlert = new MessageAlert();
             InitializeComponent();
         }
 
@@ -31,19 +33,31 @@ namespace Hotel_MS
 
         private void button1_Click(object sender, EventArgs e)
         {
-            String query = "Select username, Password from Customer_Information where username='"+textBox1.Text+"' and Password = '"+textBox2.Text+"'";
-            if (databaseHelper.loginForm(query)==1)
+            if ((textBox1.Text=="")||(textBox2.Text==""))
             {
-                
-                MessageBox.Show("Done");                // Put here the next form after login
-                Home home = new Home();
-                home.Show();
-                this.Hide();
+                messageAlert.UserDefinedErrorMessage("Any Field is Empty");
+                textBox1.BackColor = Color.Red;
+                textBox2.BackColor = Color.Red;
             }
             else
             {
-                MessageBox.Show("Attention needed your input is incorect");
+                String query = "Select username, Password from Customer_Information where username='" + textBox1.Text + "' and Password = '" + textBox2.Text + "'";
+                if (databaseHelper.loginForm(query) == 1)
+                {
+                    messageAlert.UserDefinedSuccessMessage("Logged In");
+                    Home home = new Home();
+                    home.Show();
+                    this.Hide();
+                }
+                else
+                {
+                    textBox1.BackColor = Color.Red;
+                    textBox2.BackColor = Color.Red;
+                    messageAlert.UserDefinedErrorMessage("Invalid credentials");
+
+                }
             }
+            
 
         }
         private void button2_Click(object sender, EventArgs e)
